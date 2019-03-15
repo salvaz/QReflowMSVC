@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/.vs/QReflow/v15/.suo
+/.vs/QReflow/v15/Browse.VC.db
+/.vs/QReflow/v15/Browse.VC.opendb
+/.vs/slnx.sqlite
+/QReflow.pro
+/QReflow.vcxproj.filters
+/QReflow.vcxproj.user
+/QReflow.pro.user

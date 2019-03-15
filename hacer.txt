@@ -1,0 +1,4 @@
+Restructurar los bloques uniendo los que esten muy juntos.
+Para cada bloque restructurar las lineas, para formar lineas completas
+
+Guardar la estructura en un archivo xml con QXmlStreamReader y QXmlStreamWriter
